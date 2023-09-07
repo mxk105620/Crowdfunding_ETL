@@ -1,6 +1,6 @@
 # Crowdfunding ETL Mini Project
 
-## This ETL (Extract, Transform, Load) mini project was completed by [Ehsan Aref Adib],[Monila Khadka],[Aaron Summers]. The goal of this project was to extract data from Excel files, transform it into structured CSV files, create a PostgreSQL database, and load the data into the database.
+## This ETL (Extract, Transform, Load) mini project was completed by Ehsan Aref Adib, Monila Khadka,and Aaron Summers. The goal of this project was to extract data from Excel files, transform it into structured CSV files, create a PostgreSQL database, and load the data into the database.
 
 
 # Repository Contents
