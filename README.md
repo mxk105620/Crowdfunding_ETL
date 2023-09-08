@@ -7,7 +7,7 @@
 
 ## This repository contains the following files and folders:
 
-### ERD.png
+### QuickDBD-export.png
 ### ETL_Mini_Project_EAREFADIB_MKhadka_ASummers.ipynb: The Jupyter notebook containing the Python code for the ETL process.
 ### crowdfunding_db_schema.sql: The schema file for creating the PostgreSQL database and tables.
 ### README.md: This README file.
